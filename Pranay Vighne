@@ -1,0 +1,6 @@
+Public class Inheritance1{
+public static void main(args()){
+int a= 20;
+syso("my age");
+}
+}
